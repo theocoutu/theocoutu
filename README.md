@@ -3,12 +3,12 @@
 Projects:
 - **ESP32 Thermal Imaging Camera:** [Link to repository](https://github.com/theocoutu/arduino-s3-thermal-cam/)
 - **ESP32 Budweiser Red Light:** [Link to repository](https://github.com/theocoutu/bud-light/)
+- **ESP32 Bluetooth Speaker:** [Link to repository](https://github.com/theocoutu/ESP32_Arduino_BT_Speaker/)
 
-- **ESPHome Components:** Currently includes M62429/FM62429 driver. [Link to repository](https://github.com/theocoutu/esphome-components)
 
 In progress:
+- **ESPHome Components:** Currently includes M62429/FM62429 driver. [Link to repository](https://github.com/theocoutu/esphome-components)
 - **Kobo dashboard:** [Link to repository](https://github.com/theocoutu/kobo-toolchain/)
-- **ESP32 Bluetooth Speaker:** [Link to repository](https://github.com/theocoutu/ESP32_Arduino_BT_Speaker/)
 - **Zephyr RTOS driver for MLX90640:** [Link to repository](https://github.com/theocoutu/zephyr-mlx90640/)
 
 <!--
